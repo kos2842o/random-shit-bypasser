@@ -1,7 +1,7 @@
 # [Random-Shit-Bypasser](https://github.com/shahril96/random-shit-bypasser)
 
-This script are able to bypass ads promoting site like Adf.ly or redirect services like goo.gl.
-If you want have any ideas, or other sites that that similar to adf.ly, please email me at mohd_shahril_96@yahoo.com.
+This script are able to bypass ads promoting sites like Adf.ly or redirect services like goo.gl.
+If you have any ideas, or other sites that similar to adf.ly, please email me at mohd_shahril_96@yahoo.com.
 
 ## Features
 
